@@ -1,7 +1,7 @@
 # Imports
 import random
 import sys
-sys.path.insert(1, '/Story-Line/story.py')
+sys.path.insert(1, '/StoryLine/story.py')
 from StoryLine.story import *
 
 # Main
