@@ -4,13 +4,6 @@ import sys
 sys.path.insert(1, '/Story-Line/story.py')
 from StoryLine.story import *
 
-
-
-
-
-
-
-
 # Main
 
 
