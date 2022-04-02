@@ -13,15 +13,15 @@ def main():
               if policeaccuiredsleepoutside == ("Stay the night"):
                 stayorrunending = input("You stay the night at the police station, they let you sleep there. You thank them for being so kind and you go to bed. The next morning they wake you up and say, Alrigh, time to go look at your house. So you get dressed grab something to eat and go with them to your house. They ask you many questions, you answer all of them. Then they say that something is strange, they creep upstairs and see a strange figure standing in YOUR room!! They capture them, put them in handcuffs and say that they hear a ticking noise to you. Do you stay inside the house or Run? ").lower
                 if stayorrunending == ("Run"):
-                  print("You run as fast as you possibly can with the police and the strange figure right infront of you. As soon as everyone gets out of the house... it DISSAPEARS!! The police don't understand what happened and send the strange figure to a ant-magic jail... Part 2 coming soon").lower
+                  print("You run as fast as you possibly can with the police and the strange figure right infront of you. As soon as everyone gets out of the house... it DISSAPEARS!! The police don't understand what happened and send the strange figure to a ant-magic jail... Part 2 coming soon")
                 else:
-                    print("The house dissapears into a strange realm with only darkness and the house floating around in it. You endup starving to death with the strange figure and the cops with you. Try again.").lower
+                    print("The house dissapears into a strange realm with only darkness and the house floating around in it. You endup starving to death with the strange figure and the cops with you. Try again.")
               else:
-                  print("You try to sleep outside for the night, but because you live in a house with heating and are not used to cold climates you get a shock from staying in the same position for so long in the cold. You end up dying during the night.").lower
+                  print("You try to sleep outside for the night, but because you live in a house with heating and are not used to cold climates you get a shock from staying in the same position for so long in the cold. You end up dying during the night.")
             else:
-                print("You try to sleep outside for the night, but because you live in a house with heating and are not used to cold climates you get a shock from staying in the same position for so long in the cold. You end up dying during the night.").lower
+                print("You try to sleep outside for the night, but because you live in a house with heating and are not used to cold climates you get a shock from staying in the same position for so long in the cold. You end up dying during the night.")
           else: 
-              print("You decide to take a look, all of a sudden you get slapped so hard on your face you go flying to outerspace and sufficate there. Try again.").lower
+              print("You decide to take a look, all of a sudden you get slapped so hard on your face you go flying to outerspace and sufficate there. Try again.")
     
         else:
             print("Suddenly a hot pot of boiling water falls on your head, and you die. Try again.")
