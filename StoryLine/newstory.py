@@ -19,7 +19,8 @@ def newMain():
             print("You burn your lunch and end up ordering fries.")#next
     finput2()
     input3 = input("That evening, after your nap, you decide to go out for a nice dinner to treat yourself as at work the previous day you got a raise. At the restaurant, you order and everything is very good, although you feel sick after. You assume you just ate something that was a bit off, but it rapidly turns into a stomach churning feeling and you feel like you’re about to vomit your whole body out. You can Call poison control, Vomit in a restaurant tiolet, Scream for help or Hope it's nothing and return home").lower()
-    if input3 == ""
+    if input3 == "call poison control":
+        rnum = random.randint(1)
 
 def finput2():
     input2 = input("After lunch, you’re feeling a bit tired and decide to take a nap, in the middle of your nap you hear something like a blender turning on and question why it’s so loud. You walk downstairs and see that your blender is running. Although, you’re 100 percent sure that you locked your doors. You can Call homeland security, Go back to bed or Search your house (note that with everything you turn off the blender): ").lower()

@@ -1,12 +1,15 @@
-# Imports
+# Imports & Starting Code
 import random
 import sys
 sys.path.insert(1, '/StoryLine/story.py')
 from StoryLine.story import *
+import os
+clear = lambda: os.system('clear')
+clear()
 
-# Main
+# Execution
 
-
+# Call for the story
 
 main()
 
