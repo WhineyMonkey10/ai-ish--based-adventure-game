@@ -2,8 +2,7 @@
 import random
 import sys
 sys.path.insert(1, '/Story-Line/story.py')
-import story.py
-print("Test")
+from StoryLine.story import *
 
 
 
